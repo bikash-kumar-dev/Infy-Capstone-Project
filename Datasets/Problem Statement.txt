@@ -1,0 +1,12 @@
+capstone project: A company wants to study the demographic data to make predictions about the earning potential of the population. However, the data gathered is not clean for analysis. The company requests you, as a data scientist, to perform the following operations and gain some insights from the data for data driven competitive advantage. 
+1. Remove data with missing values. 
+2. Remove outliers. 
+3. Establish the importance of the weekly working hours on earning potential. 
+4. Find the features that are highly correlated with the earning potential. 
+5. Find the relation between the number of years spent to get the degree and earning potential. 
+6. Find the relationship between age and earning potential. 
+7. Perform feature engineering i.e. converts categorical data to the numerical feature. 
+8. Build a predictive model for the earning potential. You can choose any one of the supervised learning models. 
+9. Evaluate your model by finding precision, accuracy, recall, F1 Score. 
+10. Provide the proper business insights. 
+11. Documentation and Final Report with presentation. i have dataset as well if you want can give you as well
